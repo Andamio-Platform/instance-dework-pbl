@@ -1,21 +1,31 @@
 ---
 {
-    "title": "Module 101: How to Learn in Andamio",
-    "slt": [],
+    "title": "Module 101: What is Dework module about?",
+    "slt": ["101.1", "101.2", "101.3", "101.4"],
     "type": "ModuleOverview",
-    "description": "About this module",
-    "videoURL": "https://www.youtube.com/watch?v=fZEDEWyiuZA",
-    "lastEdited": "2023-10-04",
+    "description": "",
+    "videoURL": "",
+    "lastEdited": "2023-09-14",
     "author": "Andamio Team"
 }
 ---
 
-The best way to learn about Andamio is by using it. In this Module, you will see how **Learners** interact with Andamio.
+Contribution management for decentralized communities should prioritize transparency, fairness, and inclusivity.
+It should be designed to promote collaboration and innovation while also ensuring that community members are appropriately rewarded for their contributions.
 
-You will need a Cardano Browser wallet (like [Nami](https://namiwallet.io/) or [Eternl](https://eternl.io/app/mainnet/welcome)) installed. You will also need to connect your wallet to the [Cardano Preproduction Testnet](https://github.com/cardano-foundation/developer-portal/blob/staging/docs/get-started/testnets-and-devnets.md), and get some "Test Ada" from the [Cardano Testnets Faucet](https://docs.cardano.org/cardano-testnet/tools/faucet/).
+First, we would suggest starting with thinking about *what to track?*
+This can include engaging with community activities or creating assets like code, reports, documentation, etc
 
-If you have never taken these steps before, learn more at the following links:
-1. [Connect a Wallet to Cardano Preproduction Testnet](https://plutuspbl.io/modules/100/1001)
-2. [Get Test Ada from Faucet](https://plutuspbl.io/modules/100/1002)
+Once there is some understanding of the contributions and community values, think about how your community would like to track contributions.
 
-It takes about 30 minutes to complete this module. When you're done, you'll be using Andamio on Cardano's Preproduction Testnet.
+Soon you realize your community is already creating rules and best practices. These rules and practices are governance mechanics to ensure that community decisions are made in an inclusice and transparent manner.
+These mechanics can include voting systems, conensus protocols, and decision-making frameworks.
+
+When you want to scale your governance operations, you may need to consider building a reptuation system to help establish trust and credibility within the community.
+This can include roles, badges, ratings, and endorsements.
+
+When creating governance mechanics, there may be need to protect the data that is being fed into the decisions and the out on transactions.
+Proper guidelines and education to handle information will be necessary to protect community assets and data from theft and hacking.
+
+In order to acheive such values and standards, each community will need to find or create a suite of tools for communication and collaboration among community members.
+This can include all kinds of tools, from social apps to highly technical workstations. In this PBL module, we will be looking into the Dework tool.
