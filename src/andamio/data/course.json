@@ -8,6 +8,7 @@
       "slts": [
         { "id": "101.1", "slt": "I know why I will use Dework"},
         { "id": "101.2", "slt": "I know what I will try to capture with Dework"},
+        { "id": "101.2", "slt": " "},
         { "id": "101.3", "slt": "I can accept Tasks"},
         { "id": "101.4", "slt": "I can create Cardano Wallets"},
         { "id": "101.5", "slt": "I can receive rewards"}
@@ -20,11 +21,13 @@
         { "id": "201.1", "slt": "I can organise Dework Spaces"},
         { "id": "201.2", "slt": "I can create Dework views where I find information I need"},
         { "id": "201.3", "slt": "I can connect Dework to create Discord actions"},
-        { "id": "201.4", "slt": "I can streamline recording Contributions"},
-        { "id": "201.5", "slt": "I can record Contributions"},
-        { "id": "201.6", "slt": "I can organize tasks and indentify tags"},
-        { "id": "201.7", "slt": "I can understand states and update Task Statuses"},
-        { "id": "201.8", "slt": "I can measure task rewards"}
+        { "id": "201.4", "slt": "I know what are the task fields used for"},
+        { "id": "201.5", "slt": "I can streamline recording Contributions"},
+        { "id": "201.6", "slt": "I can manage task permissions"},
+        { "id": "201.7", "slt": "I can record Contributions"},
+        { "id": "201.8", "slt": "I can organize tasks and indentify tags"},
+        { "id": "201.9", "slt": "I can understand states and update Task Statuses"},
+        { "id": "201.10", "slt": "I can measure task rewards"}
       ]
     },
     {
