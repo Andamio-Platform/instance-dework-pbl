@@ -9,9 +9,9 @@
         { "id": "101.1", "slt": "I know why I will use Dework"},
         { "id": "101.2", "slt": "I know what I will try to capture with Dework"},
         { "id": "101.3", "slt": "I can mint learning tokens"},
-        { "id": "101.3", "slt": "I can accept Tasks"},
-        { "id": "101.4", "slt": "I can create Cardano Wallets"},
-        { "id": "101.5", "slt": "I can receive rewards"}
+        { "id": "101.4", "slt": "I can accept Tasks"},
+        { "id": "101.5", "slt": "I can create Cardano Wallets"},
+        { "id": "101.6", "slt": "I can receive rewards"}
       ]
     },
     {
@@ -32,19 +32,22 @@
     },
     {
       "id": "301",
-      "title": "How to use Dework effectively?",
+      "title": "How to manage projects effectively?",
       "slts": [
         { "id": "301.1", "slt": "I can record contributions quickly and recognize patterns"},
         { "id": "301.2", "slt": "I can manage workgroup tasks"},
         { "id": "301.3", "slt": "I can facilitate workgroups"},
-        { "id": "301.4", "slt": "I can create bundle transactions with Swarm Treasury Manager Excel"}
+        { "id": "301.4", "slt": "I can update PBL material"},
+        { "id": "301.5", "slt": "I can create good quality metadata"},
+        { "id": "301.6", "slt": ""}
       ]
     },
     {
       "id": "401",
       "title": "COURSE FEEDBACK",
       "slts": [
-        { "id": "401.1", "slt": "I can provide feedback to PBL Workgroup"}
+        { "id": "401.1", "slt": "I have contributed to PBL Workgroup"},
+        { "id": "401.2", "slt": "I have contributed to PBL Workgroup"}
       ]
     }
   ]
