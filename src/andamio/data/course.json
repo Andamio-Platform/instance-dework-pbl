@@ -8,10 +8,11 @@
       "slts": [
         { "id": "101.1", "slt": "I know why I will use Dework"},
         { "id": "101.2", "slt": "I know what I will try to capture with Dework"},
-        { "id": "101.3", "slt": "I can mint learning tokens"},
-        { "id": "101.4", "slt": "I can accept Tasks"},
-        { "id": "101.5", "slt": "I can create Cardano Wallets"},
-        { "id": "101.6", "slt": "I can receive rewards"}
+        { "id": "101.3", "slt": "I know where to submit feedback"},
+        { "id": "101.4", "slt": "I can mint learning tokens"},
+        { "id": "101.5", "slt": "I can accept Tasks"},
+        { "id": "101.6", "slt": "I can create Cardano Wallets"},
+        { "id": "101.7", "slt": "I can receive rewards"}
       ]
     },
     {
@@ -39,7 +40,8 @@
         { "id": "301.3", "slt": "I can facilitate workgroups"},
         { "id": "301.4", "slt": "I can update PBL material"},
         { "id": "301.5", "slt": "I can create good quality metadata"},
-        { "id": "301.6", "slt": ""}
+        { "id": "301.6", "slt": "I can create Bounty Tasks for public Dework Community Board"},
+        { "id": "301.7", "slt": "Missing Archival WG SLT"}
       ]
     },
     {
