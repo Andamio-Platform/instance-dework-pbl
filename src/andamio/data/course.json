@@ -48,9 +48,9 @@
       "id": "401",
       "title": "COURSE FEEDBACK",
       "slts": [
-        { "id": "401.1", "slt": "I have contributed to PBL Workgroup"},
-        { "id": "401.2", "slt": "I have contributed to PBL Workgroup"},
-        { "id": "401.3", "slt": "I have contributed to PBL Workgroup"}
+        { "id": "401.1", "slt": "I have contributed to PBL lessons"},
+        { "id": "401.2", "slt": "I have contributed to PBL course"},
+        { "id": "401.3", "slt": "I have contributed to PBL analysis"}
       ]
     }
   ]
