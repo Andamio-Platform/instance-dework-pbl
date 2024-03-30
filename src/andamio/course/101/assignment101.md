@@ -13,6 +13,11 @@
 ## Welcome to the network
 In this onboarding module you learned about the different tools we use for Dework Management.  
 Commit to this assignment and if you have successfully done below actions to get assignment validated
-- Discord Account
-- Dework Account
-- Registered Wallet Address
+- Own a Discord Account
+- Requested a Discord Role
+- Own a Dework Account
+- Have Registered Wallet Address
+
+> if you got questions or ideas to share, here is an opportunity provide us intial feedback on module 1 using [Lesson Feedback Form](/course/module/401/4011)
+
+For rest of lesson actions you have to wait for the Discord Role that grants required Dework management permissions.

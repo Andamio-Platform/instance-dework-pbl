@@ -7,7 +7,7 @@
       "title": "What is Dework module about?",
       "slts": [
         { "id": "101.1", "slt": "I know why I will use Dework"},
-        { "id": "101.2", "slt": "I know what I will try to capture with Dework"},
+        { "id": "101.2", "slt": "I know how to recognize learning actions"},
         { "id": "101.3", "slt": "I know where to submit feedback"},
         { "id": "101.4", "slt": "I can mint learning tokens"},
         { "id": "101.5", "slt": "I can accept Tasks"},
