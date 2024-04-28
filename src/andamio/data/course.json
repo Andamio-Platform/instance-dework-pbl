@@ -4,15 +4,29 @@
   "modules": [
     {
       "id": "101",
+      "title": "How to make Cardano Wallets?",
+      "slts": [
+        { "id": "101.1", "slt": "I can create Eternl Cardano Wallet"},
+        { "id": "101.2", "slt": "I can create Nami Cardano Wallet"}
+      ]
+    },
+    {
+      "id": "102",
+      "title": "How do we learn and onboard?",
+      "slts": [
+        { "id": "102.1", "slt": "I know where to submit feedback"},
+        { "id": "102.2", "slt": "I know how to recognize learning actions"},
+        { "id": "102.3", "slt": "I can mint Andamio learning tokens"}
+      ]
+    },
+    {
+      "id": "103",
       "title": "What is Dework module about?",
       "slts": [
-        { "id": "101.1", "slt": "I know why I will use Dework"},
-        { "id": "101.2", "slt": "I know how to recognize learning actions"},
-        { "id": "101.3", "slt": "I know where to submit feedback"},
-        { "id": "101.4", "slt": "I can mint learning tokens"},
-        { "id": "101.5", "slt": "I can accept Tasks"},
-        { "id": "101.6", "slt": "I can create Cardano Wallets"},
-        { "id": "101.7", "slt": "I can receive rewards"}
+        { "id": "103.1", "slt": "I know why I will use Dework"},
+        { "id": "103.2", "slt": "I can create Discord Accounts"},
+        { "id": "103.3", "slt": "I can accept Dework Tasks"},
+        { "id": "103.4", "slt": "I can receive rewards"}
       ]
     },
     {

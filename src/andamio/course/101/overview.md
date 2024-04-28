@@ -1,31 +1,28 @@
 ---
 {
-    "title": "Module 101: What is Dework module about?",
-    "slt": ["101.1", "101.2", "101.3", "101.4"],
+    "title": "Module 101: How to make Cardano Wallets?",
+    "slt": ["101.1", "101.2"],
     "type": "ModuleOverview",
     "description": "",
     "videoURL": "",
-    "lastEdited": "2023-09-14",
+    "lastEdited": "2024-04-28",
     "author": "Andamio Team"
 }
 ---
 
-Contribution management for decentralized communities should prioritize transparency, fairness, and inclusivity.
-It should be designed to promote collaboration and innovation while also ensuring that community members are appropriately rewarded for their contributions.
+This module gives basic Blockchain connection and identity establishment knowledge
++ Understand the steps to secure and manage a cryptocurrency wallet.
++ Gain practical experience with blockchain technology and decentralized networks.
++ Learn about the significance of network environments in blockchain development.
 
-First, we would suggest starting with thinking about *what to track?*
-This can include engaging with community activities or creating assets like code, reports, documentation, etc
+We share 2 different lessons for 2 different Cardano wallets and guide how to set up wallet and find your wallet addresses.
 
-Once there is some understanding of the contributions and community values, think about how your community would like to track contributions.
+You only need one Cardano wallet.
 
-Soon you realize your community is already creating rules and best practices. These rules and practices are governance mechanics to ensure that community decisions are made in an inclusice and transparent manner.
-These mechanics can include voting systems, conensus protocols, and decision-making frameworks.
+If you would like to explore other wallet options check out this [Governance Guild Treasury Management PBL](https://catalyst-swarm.gitbook.io/governance-guild/project-based-learning/introduction/treasury-management-pbl#wallets-1)
 
-When you want to scale your governance operations, you may need to consider building a reptuation system to help establish trust and credibility within the community.
-This can include roles, badges, ratings, and endorsements.
+You can skip creating wallets, however then we won’t be able to recognize your contribution nor verify your learnings, but you are still able to take part of the process.
 
-When creating governance mechanics, there may be need to protect the data that is being fed into the decisions and the out on transactions.
-Proper guidelines and education to handle information will be necessary to protect community assets and data from theft and hacking.
+Your contributions are recognized by rewarding your wallet address with Cardano tokens that either have financial or social value.
 
-In order to acheive such values and standards, each community will need to find or create a suite of tools for communication and collaboration among community members.
-This can include all kinds of tools, from social apps to highly technical workstations. In this PBL module, we will be looking into the Dework tool.
+Check out [this video](https://www.youtube.com/watch?v=heilPdATpMk) from Charles Hoskinson on security fundamentals if you want to learn more about keeping your wallets safe.
