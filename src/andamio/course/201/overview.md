@@ -5,7 +5,7 @@
     "type": "ModuleOverview",
     "description": "About this module",
     "videoURL": "https://www.youtube.com/watch?v=fZEDEWyiuZA",
-    "lastEdited": "2023-09-14",
+    "lastEdited": "27.06.24",
     "author": "Andamio Team"
 }
 ---
@@ -17,7 +17,7 @@ In this module, you will become proficient in the nuts and bolts of Dework. You 
 
 As you progress, you will be introduced to the creation and utilization of task templates to streamline workflows, saving time and promoting uniformity. The module will also enhance your administrative capabilities within Dework spaces.
 
-Further, you will get hands-on experience in updating task statuses, understanding the various states and organizing tasks effectively using identification tags. Towards the end of this module, you will learn to measure task rewards with task points, a vital feature in recognizing and rewarding community contributions.
+Further, you will get hands-on experience in updating task details, understanding the various statuses and organizing tasks effectively using identification tags. Towards the end of this module, you will learn to measure task rewards with task points, a vital feature in recognizing and rewarding community contributions.
 
 By the end of this module, you will be equipped with the skills and knowledge to effectively navigate and utilize the Dework tool. This module is a stepping stone to becoming a proficient Dework user.
 

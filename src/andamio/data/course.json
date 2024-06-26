@@ -41,7 +41,7 @@
         { "id": "201.6", "slt": "I can manage task permissions"},
         { "id": "201.7", "slt": "I can record Contributions"},
         { "id": "201.8", "slt": "I can organize tasks and indentify tags"},
-        { "id": "201.9", "slt": "I can understand states and update Task Statuses"},
+        { "id": "201.9", "slt": "I can update Task Statuses"},
         { "id": "201.90", "slt": "I can measure task rewards"}
       ]
     },
